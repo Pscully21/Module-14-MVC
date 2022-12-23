@@ -1,1 +1,3 @@
 # Module-14-MVC
+
+The tech-blog is not fully functional yet on heroku or front end however I am very close to finishing middleware and back-end code, hope to have it done within the next couple days, During this assignment we were asked to create a tech blog that featured a sign in, sign out feature. Features like adding editing and deleting comments and titles to those comments and to giveusers id's and everything in between. Lots of code is currently going into this which is simultaneously being used as a good tool for both coding and taking inspiration from the current project my group and I are working on. 
